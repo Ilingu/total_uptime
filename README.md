@@ -14,7 +14,7 @@ All I have to do is make a script to get and parse the data, and then sum up all
 
 > This TUI **doesn't work** on other OS than linux.
 
-Build from source with `cargo`, or download (_if you're on linux_) the **linux** executable from the [`release page`](https://github.com/Ilingu/rtkill/releases)
+Build from source with `cargo`, or download (_if you're on linux_) the **linux** executable from the [`release page`](https://github.com/Ilingu/total_uptime/releases)
 
 ```bash
 cargo build --release # will creates a single executable for your os in ./target/release, named "rtkill" (with the associated executable extension in your os)
